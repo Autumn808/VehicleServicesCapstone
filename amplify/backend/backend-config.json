@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "appb818ba80": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
